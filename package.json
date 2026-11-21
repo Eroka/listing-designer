@@ -1,0 +1,7 @@
+{
+  "name": "listing-designer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A reusable Listing designer for Experience Workspace and Adobe Commerce storefronts on Edge Delivery Services.",
+  "scripts": { "up": "aem up" }
+}

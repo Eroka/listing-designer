@@ -1,0 +1,20 @@
+key,value
+commerce-endpoint,https://YOUR-CATALOG-SERVICE-ENDPOINT/graphql
+commerce-environment-id,YOUR-ENVIRONMENT-ID
+commerce-website-code,base
+commerce-store-code,main_website_store
+commerce-api-key,YOUR-PUBLIC-API-KEY
+region.AU,kookaburra_au|AUD|en-AU
+region.UK,kookaburra_uk|GBP|en-GB
+region.IN,kookaburra_in|INR|en-IN
+region.ZA,kookaburra_za|ZAR|en-ZA
+default-region,AU
+audiences,Consumer;Trade account
+trade-preview-discount,0.18
+layouts,top;hero;one;two;rows;feat
+category-default,cricket-bats
+page-size,12
+product-url,/products/{urlKey}/{sku}
+banners-path,/listing-designer-banners.json
+brand-primary,#0d2147
+brand-accent,#b3182c
