@@ -50,3 +50,4 @@ Environments should point at a tagged version of the plugin, for example a `v1` 
 - The preview fetches products with the public Catalog Service endpoint. Anything that needs a customer token isn't shown in the designer.
 - Confirm the SDK action that inserts a formatted block into the page. The plugin tries `sendHTML` first and falls back to `sendText`, then to copying the recipe.
 - Settings sheets are read from the environment's `aem.page` (preview) address, so publish changes to them in preview before expecting the plugin to see them.
+- 
